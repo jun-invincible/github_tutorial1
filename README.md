@@ -1,2 +1,5 @@
 # github_tutorial1
-test
+
+
+hi this is my first repo.
+777777777777
